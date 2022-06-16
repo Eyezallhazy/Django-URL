@@ -2,8 +2,5 @@
 
 creating a new Django URL file
 
-# The Admin url was changed,and a the username and password for admin is
+# The Admin url was changed to zuri-admin/
 
-> Temitope
-
-> 292929
